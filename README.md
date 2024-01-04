@@ -20,6 +20,4 @@ Express.js: Building the server and defining routes.<br>React.js & Next.js: Fron
 ![](https://github-profile-trophy.vercel.app/?username=rajxsv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajxsv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajxsv&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajxsv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
