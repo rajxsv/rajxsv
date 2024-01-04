@@ -1,5 +1,6 @@
 # Hi there !
 I'm in the midst of my third year pursuing a B.Tech in Electronics and Communication Engineering at the National Institute of Technology Jalandhar.
+
 I like solving DSA problems on leetcode/codeforces problems and building websites and everything in between !
 
 # 💫 Currently Learning:
