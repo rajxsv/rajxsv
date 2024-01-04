@@ -3,10 +3,10 @@ Express.js: Building the server and defining routes.<br>React.js & Next.js: Fron
 
 
 ## 🌐 Links:
-[![Codeforces]](https://codeforces.com/profile/suzzume)
-[![LeetCode]](https://leetcode.com/rajxsv/)
-[![GeeksforGeeks]](https://auth.geeksforgeeks.org/user/rajessvee/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
-[![Instagram]](https://instagram.com/rajxsv) 
+[Codeforces](https://codeforces.com/profile/suzzume)
+[LeetCode](https://leetcode.com/rajxsv/)
+[GeeksforGeeks](https://auth.geeksforgeeks.org/user/rajessvee/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
+[Instagram](https://instagram.com/rajxsv) 
 
 
 # 💻 Tech Stack:
