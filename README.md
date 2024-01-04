@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Currently Learning:
 Express.js: Building the server and defining routes.<br>React.js & Next.js: Frontend frameworks for creating interactive user interfaces and server-side rendering.<br>JWT (JSON Web Tokens): Implementing token-based authentication.<br>Zod: Validating and sanitizing input data.<br>Mongoose: Modeling MongoDB data and managing interactions.<br>MongoDB: The NoSQL database for storing user-related information.
 
 
