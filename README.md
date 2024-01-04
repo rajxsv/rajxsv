@@ -1,7 +1,7 @@
 # Hi there !
 I'm in the midst of my third year pursuing a B.Tech in Electronics and Communication Engineering at the National Institute of Technology Jalandhar.
 
-I like solving DSA problems on leetcode/codeforces problems and building websites and everything in between !
+I like solving DSA problems on leetcode/codeforces and building websites and everything in between !
 
 # 💫 Currently Learning:
 Express.js: Building the server and defining routes.<br>React.js & Next.js: Frontend frameworks for creating interactive user interfaces and server-side rendering.<br>JWT (JSON Web Tokens): Implementing token-based authentication.<br>Zod: Validating and sanitizing input data.<br>Mongoose: Modeling MongoDB data and managing interactions.<br>MongoDB: The NoSQL database for storing user-related information.
