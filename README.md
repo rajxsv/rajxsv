@@ -1,8 +1,3 @@
-# Hi there !
-I'm in the midst of my third year pursuing a B.Tech in Electronics and Communication Engineering at the National Institute of Technology Jalandhar.
-I like solving DSA problems on leetcode/codeforces and building websites and everything in between !
-
-
 ## 🌐 Links:
 [Codeforces](https://codeforces.com/profile/suzzume)
 [LeetCode](https://leetcode.com/rajxsv/)
