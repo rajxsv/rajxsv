@@ -4,4 +4,4 @@
 [Linkedin](https://www.linkedin.com/in/rajpreet-singh-b8200a224/) |
 [Instagram](https://instagram.com/rajxsv) 
 ---
-C/C++ , JavaScript , Java , Python , Rust
+C/C++ , JavaScript , Java , Python 
