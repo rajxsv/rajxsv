@@ -4,9 +4,4 @@
 [Linkedin](https://www.linkedin.com/in/rajpreet-singh-b8200a224/) 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajxsv&show_icons=true&locale=en" alt="rajxsv" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajxsv&" alt="rajxsv" /></p>
-
-
-C/C++ , JavaScript , Java , Python 
