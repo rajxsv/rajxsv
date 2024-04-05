@@ -4,4 +4,4 @@
 [Linkedin](https://www.linkedin.com/in/rajpreet-singh-b8200a224/) 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajxsv&" alt="rajxsv" /></p>
+<p width="full" >  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajxsv&" alt="rajxsv" /></p>
