@@ -1,4 +1,4 @@
-All things software engineering.
+I can code.
 
 [LeetCode](https://leetcode.com/rajxsv/)
 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rajessvee/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
